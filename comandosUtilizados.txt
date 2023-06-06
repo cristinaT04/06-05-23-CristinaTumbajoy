@@ -1,0 +1,50 @@
+  213  cd ..
+  214  ls
+  215  cd 05-06-2023-Cristina-Tumbajoy-c/
+  216  ls
+  217  git init .
+  218  git show 
+  219  history
+  220  git status
+  221  git commit 
+  222  git push origin feature01
+  223  git push origin feature02
+  224  git commit -m "contenido v1"
+  225  git push origin feature01
+  226  git push origin feature02
+  227  git checkout feature02
+  228  ls
+  229  ls ../
+  230  ls ../05-06-2023-Cristina-Tumbajoy-c
+  231  ls ../05-06-2023-Cristina-Tumbajoy-
+  232  ls
+  233  git checkout -b feature02 feature01 
+  234  git checkout feature02
+  235  git branch -d feature02
+  236  git checkout feature01
+  237  git branch -d feature02
+  238  git commit -m "corrigiendo branch"
+  239  git checkout -b feature02 feature01 
+  240  ls
+  241  echo "git commit -m "", git init, git status, git push, git pull" >> terminal/resumen.txt 
+  242  echo "CPU, RAM, Disco Duro" >> hardware/resumen.txt 
+  243  git push origin feature02
+  244  git commit -m "3 Cristina Tumbajoy Carlosama"
+  245  nano terminal/resumen.txt 
+  246  git push origin feature02
+  247  git commit -m "3.1 Cristina Tumbajoy Carlosama"
+  248  git add hardware/resumen.txt 
+  249  git add terminal/resumen.txt 
+  250  git push origin feature02
+  251  git commit -m "3 Cristina Tumbajoy Carlosama"
+  252  git commit -m "3 Cristina Tumbajoy Carlosama"
+  253  git push
+  254  git push origin feature02
+  255  git commit -m "3.1 Cristina Tumbajoy Carlosama"
+  256  git push origin feature01
+  257  ls
+  258  git checkout main 
+  259  ls
+  260  history 
+  261  history | tail -n 50 
+  262  history | tail -n 50 >> comandos.txt 
